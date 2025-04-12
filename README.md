@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey there! I'm Toya Okey-Nwamara
 
-<!--
-**ToyaOkey/ToyaOkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Cybersecurity student passionate about building impactful tools, exploring tech through a consulting lens, and helping others grow.
 
-Here are some ideas to get you started:
+🚀 I love working on:
+- 🔐 Cybersecurity + ethical hacking projects
+- 🧠 Data structures and algorithms (currently reading Cracking the Technical Interview)
+- 🧰 Teaching tools that make education more efficient 
+- 🧩 Projects that blend tech + strategy — think resume screeners, OSINT tools, or consulting dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I’m currently:
+- A Lead Instructional Assistant teaching Object-Oriented Programming to several hundren students 
+- Interning this summer, where I’m diving deeper into consulting & security
+- Preparing for full-time roles with a focus on tech consulting, security, or product strategy
+
+⚡ I believe in learning by doing, and I’m always building, experimenting, and sharing
