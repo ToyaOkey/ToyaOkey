@@ -9,7 +9,7 @@ I'm a Computer Science and Cybersecurity student passionate about building impac
 - 🧩 Projects that blend tech + strategy — think resume screeners, OSINT tools, or consulting dashboards
 
 📚 I’m currently:
-- A Lead Instructional Assistant teaching Object-Oriented Programming to several hundren students 
+- A Lead Instructional Assistant teaching Object-Oriented Programming to several hundred students 
 - Interning this summer, where I’m diving deeper into consulting & security
 - Preparing for full-time roles with a focus on tech consulting, security, or product strategy
 
