@@ -14,3 +14,5 @@ I'm a Computer Science and Cybersecurity student passionate about building impac
 - Preparing for full-time roles with a focus on tech consulting, security, or product strategy
 
 ⚡ I believe in learning by doing, and I’m always building, experimenting, and sharing
+
+Feel free to reach out to me to collaborate on any work. 
