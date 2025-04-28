@@ -15,4 +15,4 @@ I'm a Computer Science and Cybersecurity student passionate about building impac
 
 ⚡ I believe in learning by doing, and I’m always building, experimenting, and sharing
 
-Feel free to reach out to me to collaborate on any work!
+Feel free to reach out to me to collaborate on any work.
