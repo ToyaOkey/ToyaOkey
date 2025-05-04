@@ -2,7 +2,7 @@
 
 I'm a Computer Science and Cybersecurity student passionate about building impactful tools, exploring tech through a consulting lens, and helping others grow.
 
-🚀 I love working on:
+I love working on:
 - 🔐 Cybersecurity + ethical hacking projects
 - 🧠 Data structures and algorithms (currently reading Cracking the Technical Interview)
 - 🧰 Teaching tools that make education more efficient 
