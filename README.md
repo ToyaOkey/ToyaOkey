@@ -13,6 +13,7 @@ I love working on:
 - Interning this summer, where I'm diving deeper into consulting & security
 - Preparing for full-time roles with a focus on tech consulting, security, or product strategy
 - Grinding certifications 💪
+- Reading, Reading, Reading
 
 ⚡ I believe in learning by doing, and I'm always building, experimenting, and sharing
 
