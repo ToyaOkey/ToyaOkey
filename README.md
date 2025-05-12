@@ -12,9 +12,9 @@ I love working on:
 - A Lead Instructional Assistant teaching Object-Oriented Programming to several hundred students 
 - Interning this summer, where I'm diving deeper into consulting & security
 - Preparing for full-time roles with a focus on tech consulting, security, or product strategy
-- Grinding certifications 💪
+- Grinding certifications 💪 
 - Reading, Reading, Reading
 
-⚡ I believe in learning by doing, and I'm always building, experimenting, and sharing
+I believe in learning by doing, and I'm always building, experimenting, and sharing
 
 Please don't hesitate to contact me to collaborate on any project.
