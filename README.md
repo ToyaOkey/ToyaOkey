@@ -15,6 +15,6 @@ I'm currently:
 - Grinding certifications
 - Reading, Reading, Reading
 
-I believe in learning by doing, and I'm always building, experimenting, and sharing
+I believe in learning by doing, and I'm always building, experimenting, and sharing!
 
 Please don't hesitate to contact me to collaborate on any project.
