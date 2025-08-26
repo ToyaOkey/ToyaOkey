@@ -1,4 +1,4 @@
-### Hi there! I'm Toya :D
+### Hi there! I'm Toya :3
 
 I'm a Computer Science and Cybersecurity student passionate about building impactful tools, exploring tech through a consulting lens, and helping others grow.
 
