@@ -10,7 +10,6 @@ I love working on:
 
 I'm currently:
 - A Lead Instructional Assistant teaching Object-Oriented Programming to several hundred students 
-- Interning this summer, where I'm diving deeper into consulting & security
 - Preparing for full-time roles with a focus on tech consulting, security, or product strategy
 - Grinding certifications
 - Reading, Reading, Reading
